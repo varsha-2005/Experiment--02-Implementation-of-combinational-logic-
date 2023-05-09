@@ -66,6 +66,16 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
 
 ![image](https://user-images.githubusercontent.com/119288183/237038524-5a63b31b-6ae1-4e0b-93a0-01103e7bc97f.png)
 
+## TRUTH TABLE
+F1= A’B’C’D’+AC’D’+B’CD’+A’BCD+BC’D
+
+![image](https://user-images.githubusercontent.com/119288183/237047422-e26c924e-526f-4a94-a6c0-f152d152789a.png)
+
+
+F2=xy’z+x’y’z+w’xy+wx’y+wxy
+
+![image](https://user-images.githubusercontent.com/119288183/237047500-f0b591f7-048a-454c-a732-983bf8cb3911.png)
+
 
 ## Output 
 ## Timing Diagram
