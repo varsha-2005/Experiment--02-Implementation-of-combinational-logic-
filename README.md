@@ -27,6 +27,7 @@ gates, OR gates, and NOT gates.
  
 
 ## Logic Diagram
+
 ## Procedure
 
 1.Use module projname(input,output) to start the Verilog programmming.
@@ -58,20 +59,26 @@ endmodule
 ## RTL realization
 F1= A’B’C’D’+AC’D’+B’CD’+A’BCD+BC’D
 
-https://user-images.githubusercontent.com/119218812/233413258-0ba8e708-35f4-4de6-8c66-601f8d7bd21f.png
+![image](https://user-images.githubusercontent.com/119288183/237037673-34007f04-c4b5-4d74-9c1b-8543700d9409.png)
+
 
 F2=xy’z+x’y’z+w’xy+wx’y+wxy
 
-https://user-images.githubusercontent.com/119218812/233413214-e3ccf259-0125-4113-a79c-487667e4dbe3.png
+![image](https://user-images.githubusercontent.com/119288183/237038524-5a63b31b-6ae1-4e0b-93a0-01103e7bc97f.png)
+
 
 ## Output 
 ## Timing Diagram
 F1= A’B’C’D’+AC’D’+B’CD’+A’BCD+BC’D
 
-https://user-images.githubusercontent.com/119218812/233413642-d2ac08d2-d078-4945-bfd3-20521d3a6457.png
+![image](https://user-images.githubusercontent.com/119288183/237038828-5ffdc7c8-c652-45e4-bdfb-6a6fc839d43b.png)
+
 
 F2=xy’z+x’y’z+w’xy+wx’y+wxy
 
-https://user-images.githubusercontent.com/119218812/233413570-6dd37770-b413-4752-ad60-e340214354b7.png
+![image](https://user-images.githubusercontent.com/119288183/237042193-1308c9aa-8e44-45c7-bc06-09b821767c55.png)
+
+
+
 ## Result:
 Thus the given logic functions are implemented using  and their operations are verified using Verilog programming.
